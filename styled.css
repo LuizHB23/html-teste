@@ -24,17 +24,59 @@ header {
     padding: 9px
 }
 
-.pesquisa {
-    width: 10%;
+main {
+    justify-content: center;
+    padding: 1% 30%;
 }
 
-.baixo {
+.main-up {
+    margin: 0%;
+    text-decoration: none;
+}
+
+.main-up-google {
+    margin: 0% 15%;
+}
+
+.main-up-pesquisa {
+    width: 95%;
+    height: 35px;
+    margin: 0%;
+}
+
+.main-up-pesquisa-div {
+    padding: 0% 31.75%;
+}
+
+.main-up-pesquisa-div-words {
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.main-down {
+    margin: 15% 0%;
+    padding: 7% 15%;
+}
+
+.main-down-cabeca{
+    margin: 20px;
+}
+
+.main-down-cabeca-words{
+    padding: 5px;
+    text-decoration: none;
+}
+
+.main-baixo {
     display: flex;
     text-align: center;
     text-decoration: none;
 }
 
-.ultimo {
-    display: flex;
-    align-items: center;
+.main-down-pe {
+    margin: 0% 27.5%;
+}
+
+.main-down-pe-words{
+    text-decoration: none;
 }
